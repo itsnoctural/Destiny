@@ -13,3 +13,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * My Prison
 * Strongest Punch Simulator
 * Taxi Boss
+* Apartment Tycoon
