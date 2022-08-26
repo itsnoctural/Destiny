@@ -14,3 +14,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Strongest Punch Simulator
 * Taxi Boss
 * Apartment Tycoon
+* Big Brain Simulator
