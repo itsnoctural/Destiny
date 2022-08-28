@@ -15,3 +15,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Taxi Boss
 * Apartment Tycoon
 * Big Brain Simulator
+* Lifting Heroes
