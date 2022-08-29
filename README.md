@@ -16,3 +16,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Apartment Tycoon
 * Big Brain Simulator
 * Lifting Heroes
+* Training Simulator
