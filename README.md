@@ -17,3 +17,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Big Brain Simulator
 * Lifting Heroes
 * Training Simulator
+* 2 Player Computer Tycoon
