@@ -12,7 +12,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Museum Tycoon 
 * My Prison
 * Strongest Punch Simulator
-* Taxi Boss
 * Apartment Tycoon
 * Big Brain Simulator
 * Lifting Heroes
