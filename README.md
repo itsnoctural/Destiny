@@ -18,3 +18,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Training Simulator
 * 2 Player Computer Tycoon
 * Craft Factory
+* Slime Tower Tycoon
