@@ -19,3 +19,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * 2 Player Computer Tycoon
 * Craft Factory
 * Slime Tower Tycoon
+* Farm Life Tycoon
+* Money Tycoon
