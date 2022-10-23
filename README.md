@@ -21,3 +21,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Slime Tower Tycoon
 * Farm Life Tycoon
 * Money Tycoon
+* Lemonade Tycoon
