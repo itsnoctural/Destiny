@@ -23,3 +23,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Money Tycoon
 * Lemonade Tycoon
 * Stone Farm Simulator
+* 2 Player Millionaire Tycoon
