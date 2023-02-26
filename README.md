@@ -2,7 +2,7 @@
 
 ## Loader
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/main/loader.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/main/loader.lua", true))()
 ```
 
 ## Supported Games:
@@ -24,3 +24,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Lemonade Tycoon
 * Stone Farm Simulator
 * 2 Player Millionaire Tycoon
+* Mega Easy Obby
