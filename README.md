@@ -25,3 +25,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Stone Farm Simulator
 * 2 Player Millionaire Tycoon
 * Mega Easy Obby
+* Elemental Powers Tycoon
