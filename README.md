@@ -26,3 +26,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * 2 Player Millionaire Tycoon
 * Mega Easy Obby
 * Elemental Powers Tycoon
+* Youtuber Tycoon
