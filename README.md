@@ -27,3 +27,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Mega Easy Obby
 * Elemental Powers Tycoon
 * Youtuber Tycoon
+* Fruit Warriors
