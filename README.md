@@ -28,3 +28,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Elemental Powers Tycoon
 * Youtuber Tycoon
 * Fruit Warriors
+* Strongman Simulator
