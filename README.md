@@ -2,7 +2,7 @@
 
 ## Loader
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/main/loader.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/main/loader.lua"))()
 ```
 
 ## Supported Games:
@@ -29,3 +29,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Youtuber Tycoon
 * Fruit Warriors
 * Strongman Simulator
+* Super Dunk
