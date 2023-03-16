@@ -30,3 +30,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Fruit Warriors
 * Strongman Simulator
 * Super Dunk
+* Treasure Hunt Simulator
