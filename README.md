@@ -32,3 +32,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Super Dunk
 * Treasure Hunt Simulator
 * Tapping Masters
+* Boxing Fighters Simulator
