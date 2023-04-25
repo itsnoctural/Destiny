@@ -34,3 +34,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/itsnoctural/Destiny/m
 * Tapping Masters
 * Boxing Fighters Simulator
 * Clicker Mining Simulator
+* start a newspaper company to get revenge tycoon
