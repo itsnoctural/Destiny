@@ -1,4 +1,4 @@
 return {
-  Developer = "Noctural#9816",
+  Developer = "itsnoctural",
   Invite = "discord.gg/6qpSJWmdFB"
 }
